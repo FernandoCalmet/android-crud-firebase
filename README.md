@@ -10,6 +10,8 @@ Nombre del paquete: `com.fernandocalmet.crudfirebase`
 
 ## Dependencias
 
+### Firebase
+
 Build.gradle - Project: 
 
 ```gradle
@@ -44,6 +46,13 @@ dependencies {
   // Add the dependencies for any other desired Firebase products
   // https://firebase.google.com/docs/android/setup#available-libraries
 }
+```
+
+### Otros
+
+```gradle
+implementation 'com.google.android.material:material:1.2.1'
+implementation 'com.android.support:design'
 ```
 
 ## Realtime Database
