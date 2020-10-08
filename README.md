@@ -52,10 +52,9 @@ dependencies {
 
 ```gradle
 implementation 'com.google.android.material:material:1.2.1'
-implementation 'com.android.support:design'
+implementation 'com.android.support:design:28.0.0'
+implementation 'com.google.firebase:firebase-database:19.5.0'
 ```
-
-## Realtime Database
 
 ## :page_facing_up: LICENCIA
 
