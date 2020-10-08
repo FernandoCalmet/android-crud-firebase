@@ -5,4 +5,8 @@
     <string name="save">Save</string>
     <string name="delete">Delete</string>
     <string name="edit">Edit</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
 </resources>
