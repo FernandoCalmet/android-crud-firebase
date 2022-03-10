@@ -1,16 +1,31 @@
 # Android CRUD Firebase
 
-Aplicación simple con Android Studio aplicando operaciones CRUD usando [Firebase](https://console.firebase.google.com/).
+[![Github][github-shield]][github-url]
+[![Kofi][kofi-shield]][kofi-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Khanakat][khanakat-shield]][khanakat-url]
 
-## Descripción del proyecto
+## 📓 TABLA DE CONTENIDO
 
-Añadir Firebase a una aplicación de Android
+* [Acerca del proyecto](#acerca-del-proyecto)
+* [Instalación](#instalación)
+* [Dependencias](#dependencias)
+* [Licencia](#licencia)
 
-Nombre del paquete: `com.fernandocalmet.crudfirebase`
+## 🔥 ACERCA DEL PROYECTO
 
-## Dependencias
+Este proyecto es una muestra de una solución base de `CRUD con Firebase` utilizando `Java + Android`.  
+[Firebase Console](https://console.firebase.google.com/)
 
-### Firebase
+## ⚙️ INSTALACIÓN
+
+Clonar el repositorio.
+
+```bash
+gh repo clone FernandoCalmet/Android-CRUD-Firebase
+```
+
+### COMANDOS
 
 Build.gradle - Project: 
 
@@ -48,20 +63,26 @@ dependencies {
 }
 ```
 
-### Otros
+## 📥 DEPENDENCIAS
 
-```gradle
-implementation 'com.google.android.material:material:1.2.1'
-implementation 'com.android.support:design:28.0.0'
-implementation 'com.google.firebase:firebase-database:19.5.0'
-```
+- [material](com.google.android.material:material:1.2.1) : com.google.android.material:material:1.2.1
+- [design](com.android.support:design:28.0.0) : com.android.support:design:28.0.0
+- [firebase-database](com.google.firebase:firebase-database:19.5.0) : com.google.firebase:firebase-database:19.5.0
 
-## :page_facing_up: LICENCIA
+## 📄 LICENCIA
 
-Licencia MIT. Puedes verla en el [Archivo de Licencia](https://github.com/FernandoCalmet/android-crud-firebase/blob/main/LICENSE) para más información.
+Este proyecto está bajo la Licencia (Licencia MIT) - mire el archivo [LICENSE](LICENSE) para más detalles.
 
----
+## ⭐️ DAME UNA ESTRELLA
 
-:octocat: [Puedes seguirme en Github.](https://github.com/FernandoCalmet)
+Si esta Implementación le resultó útil o la utilizó en sus Proyectos, déle una estrella. ¡Gracias! O, si te sientes realmente generoso, [¡Apoye el proyecto con una pequeña contribución!](https://ko-fi.com/fernandocalmet).
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+<!--- reference style links --->
+[github-shield]: https://img.shields.io/badge/-@fernandocalmet-%23181717?style=flat-square&logo=github
+[github-url]: https://github.com/fernandocalmet
+[kofi-shield]: https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=kofi&logoColor=ff5f5f
+[kofi-url]: https://ko-fi.com/fernandocalmet
+[linkedin-shield]: https://img.shields.io/badge/-fernandocalmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocalmet
+[linkedin-url]: https://www.linkedin.com/in/fernandocalmet
+[khanakat-shield]: https://img.shields.io/badge/khanakat.com-brightgreen?style=flat-square
+[khanakat-url]: https://khanakat.com
