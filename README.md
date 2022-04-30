@@ -22,7 +22,7 @@ Este proyecto es una muestra de una solución base de `CRUD con Firebase` utiliz
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/Android-CRUD-Firebase
+gh repo clone FernandoCalmet/android-crud-firebase
 ```
 
 ### COMANDOS
